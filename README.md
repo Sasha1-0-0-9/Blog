@@ -1,6 +1,6 @@
 # Readme
 
-IDK why in different devices header displayed incorrectly, so I pin screenshots with expected result
+IDK why on different devices header displayed incorrectly, so I pin screenshots with expected result
 
 ## Screenshots
 
