@@ -1,24 +1,9 @@
-# README
+# Readme
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+IDK why in different devices header displayed incorrectly, so I pin screenshots with expected result
 
-Things you may want to cover:
+## Screenshots
 
-* Ruby version
+![Screenshot from 2020-12-15 14-24-55](https://user-images.githubusercontent.com/34281985/102216567-027acd00-3ee4-11eb-8072-92bdb5ef346d.png)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot from 2020-12-15 14-25-03](https://user-images.githubusercontent.com/34281985/102216602-10305280-3ee4-11eb-8067-fdd32361ab15.png)
